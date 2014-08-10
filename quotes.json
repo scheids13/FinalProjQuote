@@ -1,0 +1,798 @@
+{
+    "quotes": [
+        {
+            "text": "It's over 9000!!",
+            "author": "Vegeta",
+            "provider": "Calvin Mays",
+            "tags": [
+                "TV",
+                "Dragonball Z",
+                "Vegeta"
+            ]
+        },
+        {
+            "text": "I am a leaf on the wind - watch how I soar.",
+            "author": "Wash",
+            "provider": "Calvin Mays",
+            "tags": [
+                "Movie",
+                "Serenity",
+                "Wash"
+            ]
+        },
+        {
+            "text": "Mundo goes where he pleases.",
+            "author": "Dr. Mundo",
+            "provider": "Calvin Mays",
+            "tags": [
+                "Video Game",
+                "League of Legends",
+                "Dr.Mundo"
+            ]
+        },
+        {
+            "text": "Say 'What' Again!",
+            "author": "Jules Winnfield",
+            "provider": "Calvin Mays",
+            "tags": [
+                "Movie",
+                "Pulp Fiction",
+                "Jules Winnfield"
+            ]
+        },
+        {
+            "text": "Say my name.",
+            "author": "Heisenberg",
+            "provider": "Calvin Mays",
+            "tags": [
+                "TV",
+                "Breaking Bad",
+                "Walter White",
+                "Heisenberg"
+            ]
+        },
+        {
+            "text": "Whatever you are, be a good one.",
+            "author": "Abraham Lincoln",
+            "provider": "Bennett Nestok",
+            "tags": [
+                "Famous Inspirational Quotes",
+                "BrainyQuote.com",
+                "Inspirational"
+            ]
+        },
+        {
+            "text": "It has been my philosophy of life that difficulties vanish when faced boldly.",
+            "author": "Isaac Asimov",
+            "provider": "Bennett Nestok",
+            "tags": [
+                "Famous Inspirational Quotes",
+                "BrainyQuote.com",
+                "Inspirational"
+            ]
+        },
+        {
+            "text": "Enjoy life. There’s plenty of time to be dead.",
+            "author": "Anonymous",
+            "provider": "Bennett Nestok",
+            "tags": [
+                "Famous Inspirational Quotes",
+                "BrainyQuote.com",
+                "Inspirational"
+            ]
+        },
+        {
+            "text": "Every moment is a fresh beginning.",
+            "author": "T.S. Eliot",
+            "provider": "Bennett Nestok",
+            "tags": [
+                "Famous Inspirational Quotes",
+                "BrainyQuote.com",
+                "Inspirational"
+            ]
+        },
+        {
+            "text": "One day your life will flash before your eyes. Make sure it is worth watching.",
+            "author": "Anonymous",
+            "provider": "Bennett Nestok",
+            "tags": [
+                "Famous Inspirational Quotes",
+                "BrainyQuote.com",
+                "Inspirational"
+            ]
+        },
+        {
+            "text": "You cannot escape the responsibility of tomorrow by evading it today.",
+            "author": "Abraham Lincoln",
+            "provider": "James Hamann",
+            "tags": [
+                "Historical",
+                "Motivating",
+                "Famous Person",
+                "Previous President"
+            ]
+        },
+        {
+            "text": "The past is never dead. It's not even past.",
+            "author": "William Faulkner",
+            "provider": "James Hamann",
+            "tags": [
+                "Historical",
+                "Motivating",
+                "Famous Author",
+                "Historian"
+            ]
+        },
+        {
+            "text": "Do not take life too seriously. You will never get out of it alive.",
+            "author": "Elbert Hubbard",
+            "provider": "James Hamann",
+            "tags": [
+                "Funny",
+                "Motivating",
+                "Comedy"
+            ]
+        },
+        {
+            "text": "A day without sunshine is like, you know, night.",
+            "author": "Steve Martin",
+            "provider": "James Hamann",
+            "tags": [
+                "Funny",
+                "Comedian",
+                "Comedy",
+                "Actor"
+            ]
+        },
+        {
+            "text": "Go to Heaven for the climate, Hell for the company.",
+            "author": "Mark Twain",
+            "provider": "James Hamann",
+            "tags": [
+                "Funny",
+                "Famous Author",
+                "Comedy",
+                "Joke",
+                "19th Century"
+            ]
+        },
+        {
+            "text": "Get your facts first, then you can distort them as you please.",
+            "author": "Mark Twain",
+            "provider": "James Hamann",
+            "tags": [
+                "Funny",
+                "Famous Author",
+                "Comedy",
+                "Joke",
+                "19th Century"
+            ]
+        },
+        {
+            "author": "E.M. Forster",
+            "text": "Only connect.",
+            "provider": "Kevin Ernst",
+            "tags": [
+                "connection",
+                "meaninfulness",
+                "pithy"
+            ]
+        },
+        {
+            "author": "F. Scott Fitzgerald",
+            "text": "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability      to function.",
+            "provider": "Kevin Ernst",
+            "tags": [
+                "intelligence",
+                "themind",
+                "virtues"
+            ]
+        },
+        {
+            "author": "Richard Buckminster Fuller",
+            "text": "To change something, build a new model that makes the existing model obsolete.",
+            "provider": "Kevin Ernst",
+            "tags": [
+                "change",
+                "innovation",
+                "disruption"
+            ]
+        },
+        {
+            "author": "Martin Luther King, Jr.",
+            "text": "The time is always right to do what is right.",
+            "provider": "Kevin Ernst",
+            "tags": [
+                "morality",
+                "dotherightthing",
+                "justice",
+                "equality"
+            ]
+        },
+        {
+            "author": "Bruce Lee",
+            "text": "Be water, my friend.",
+            "provider": "Kevin Ernst",
+            "tags": [
+                "flexibility",
+                "adaptability",
+                "virtues"
+            ]
+        },
+        {
+            "author": "Sir Winston Churchill",
+            "text": "You can always count on Americans to do the right thing—after they've tried everything else.",
+            "provider": "Kevin Ernst",
+            "tags": [
+                "america",
+                "americans",
+                "mistakes",
+                "trytryagain"
+            ]
+        },
+        {
+            "author": "Niccoló Machiavelli",
+            "text": "Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer",
+            "provider": "Kevin Ernst",
+            "tags": [
+                "mistakes",
+                "ambition",
+                "strength",
+                "suffering"
+            ]
+        },
+        {
+            "author": "Tenzin Gyatso, the 14th Dalai Lama",
+            "text": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
+            "provider": "Kevin Ernst",
+            "tags": [
+                "happiness",
+                "compassion",
+                "virtues",
+                "buddhism"
+            ]
+        },
+        {
+            "text": "If you even dream of beating me you'd better wake up and apologize.",
+            "author": "Muhammad Ali",
+            "provider": "Deyshawn Bond",
+            "tags": [
+                "book",
+                "Ali",
+                "boxer"
+            ]
+        },
+        {
+            "text": "Be the change you want to see in the World.",
+            "author": "Mahatma Gandhi",
+            "provider": "Deyshawn Bond",
+            "tags": [
+                "book",
+                "Gandhi",
+                "leader"
+            ]
+        },
+        {
+            "text": "If you cannot do great things, do small things in a great way.",
+            "author": "Napoleon Hill",
+            "provider": "Deyshawn Bond",
+            "tags": [
+                "book",
+                "Hill",
+                "author"
+            ]
+        },
+        {
+            "text": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+            "author": "Thomas Edison",
+            "provider": "Deyshawn Bond",
+            "tags": [
+                "book",
+                "Edison",
+                "inventor"
+            ]
+        },
+        {
+            "text": "We should all start to live before we get to old. Fear is stupid. So are regrets.",
+            "author": "Marilyn Monroe",
+            "provider": "Deyshawn Bond",
+            "tags": [
+                "book",
+                "Monroe",
+                "actress",
+                "model",
+                "singer"
+            ]
+        },
+        {
+            "text": "To be or not to be",
+            "author": "William Shakespeare",
+            "provider": "Connor Eslinger",
+            "tags": [
+                "Play",
+                "Hamlet",
+                "William Shakespeare",
+                "drama"
+            ]
+        },
+        {
+            "text": "Please do not deplore yourself. Even if the world does not forgive you, I will forgive you. Please do not deplore yourself. Even if you do not forgive the world, I will forgive you. So please tell me. What will it take for you, to forgive me?",
+            "author": "Frederica Bernkastel  (Ryukishi07)",
+            "provider": "Connor Eslinger",
+            "tags": [
+                "Sound Novel",
+                "Poem",
+                "Higurashi",
+                "Frederica Bernkastel",
+                "Ryukishi07"
+            ]
+        },
+        {
+            "text": "Don't cry because it's over, smile because it happened.",
+            "author": "Dr. Seuss",
+            "provider": "Connor Eslinger",
+            "tags": [
+                "Literature",
+                "Dr. Seuss"
+            ]
+        },
+        {
+            "text": "Be yourself; everyone else is already taken.",
+            "author": "Oscar Wilde",
+            "provider": "Connor Eslinger",
+            "tags": [
+                "Literature",
+                "Oscar Wilde"
+            ]
+        },
+        {
+            "text": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+            "author": "Albert Einstein",
+            "provider": "Connor Eslinger",
+            "tags": [
+                "Literature",
+                "Albert Einstein"
+            ]
+        },
+        {
+            "text": "If you tell the truth, you don't have to remember anything.",
+            "author": "Mark Twain",
+            "provider": "Connor Eslinger",
+            "tags": [
+                "Literature",
+                "Mark Twain"
+            ]
+        },
+        {
+            "text": "Inside every cynical person, there is a disappointed idealist.",
+            "author": "George Carlin",
+            "provider": "Tom Anderson",
+            "tags": [
+                "Comedy",
+                "Commentary",
+                "George Carlin",
+                "Cynicism"
+            ]
+        },
+        {
+            "text": "If you're going through hell, keep going.",
+            "author": "Winston Churchill",
+            "provider": "Tom Anderson",
+            "tags": [
+                "Motivational",
+                "War Time",
+                "Winston Churchill",
+                "Advise"
+            ]
+        },
+        {
+            "text": "There is no terror in the bang, only in the anticipation of it.",
+            "author": "Alfred Hitchcock",
+            "provider": "Tom Anderson",
+            "tags": [
+                "Lessons",
+                "Commentary",
+                "Alfred Hitchcock",
+                "Movies"
+            ]
+        },
+        {
+            "text": "Don't fear failure. Not failure, but low aim, is the crime. In great attempts, it is glorious even to fail.",
+            "author": "Bruce Lee",
+            "provider": "Tom Anderson",
+            "tags": [
+                "Motivational",
+                "Struggle",
+                "Bruce Lee",
+                "Outlook"
+            ]
+        },
+        {
+            "text": "What to do when life gives you lemons: don't make lemonade! Make life take the lemons back. Get mad! Yell - I don't want your damn lemons!. Then demand to see life's manager, then burn down their house.",
+            "author": "Cave Johnson",
+            "provider": "Tom Anderson",
+            "tags": [
+                "Comedy",
+                "Motivational",
+                "Portal",
+                "Aperture Science"
+            ]
+        },
+        {
+            "text": "Man cannot remake himself without suffering for he is both the marble and the sculptor.",
+            "author": "Alexis Carrel",
+            "provider": "Tom Anderson",
+            "tags": [
+                "Motivational",
+                "Commentary",
+                "Change",
+                "Understanding"
+            ]
+        },
+        {
+            "text": "No",
+            "author": "Rosa parks",
+            "provider": "Josip Injic",
+            "tags": [
+                "web",
+                "comedy"
+            ]
+        },
+        {
+            "text": "I believe that if life gives you lemons, you should make lemonade... And try to find somebody whose life has given them vodka, and have a party.",
+            "author": "Ron White",
+            "provider": "Josip Injic",
+            "tags": [
+                "web",
+                "comedy"
+            ]
+        },
+        {
+            "text": "Go to heaven for the climate, Hell for the company",
+            "author": "Mark Twain",
+            "provider": "Josip Injic",
+            "tags": [
+                "book",
+                "comedy"
+            ]
+        },
+        {
+            "text": "A womans mind is cleaner then a man's: She changes it more often.",
+            "author": "Oliver Herford",
+            "provider": "Josip Injic",
+            "tags": [
+                "web",
+                "women",
+                "comedy"
+            ]
+        },
+        {
+            "text": "If shit can rise to the top of the toilet... Why can't you?",
+            "author": "Josip Injic",
+            "provider": "Josip Injic",
+            "tags": [
+                "web",
+                "comedy"
+            ]
+        },
+        {
+            "text": "Life isn't about getting and having, it's about giving and being.",
+            "author": "- Kevin Kruse",
+            "provider": "Pete Kangsathien",
+            "tags": [
+                "motivational",
+                "quote",
+                "inspiration"
+            ]
+        },
+        {
+            "text": "Whatever the mind of man can conceive and believe, it can achieve.",
+            "author": "- Napoleon Hill",
+            "provider": "Pete Kangsathien",
+            "tags": [
+                "motivational",
+                "quote",
+                "inspiration"
+            ]
+        },
+        {
+            "text": "Things work out best for those who make the best of how things work out.",
+            "author": "- John Wooden",
+            "provider": "Pete Kangsathien",
+            "tags": [
+                "motivational",
+                "quote",
+                "inspiration"
+            ]
+        },
+        {
+            "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+            "author": "- Winston Churchill",
+            "provider": "Pete Kangsathien",
+            "tags": [
+                "motivational",
+                "quote",
+                "inspiration"
+            ]
+        },
+        {
+            "text": "Only put off until tomorrow what you are willing to die having left undone.",
+            "author": "- Pablo Picasso",
+            "provider": "Pete Kangsathien",
+            "tags": [
+                "motivational",
+                "quote",
+                "inspiration"
+            ]
+        },
+        {
+            "text": "I am not a product of my circumstances. I am a product of my decisions.",
+            "author": "- Stephen Covey",
+            "provider": "Pete Kangsathien",
+            "tags": [
+                "motivational",
+                "quote",
+                "inspiration"
+            ]
+        },
+        {
+            "text": "Don't cry because it's over, smile because it happened",
+            "author": "Dr. Seuss",
+            "provider": "Andrew Lambert",
+            "tags": [
+                "Book",
+                "Author",
+                "Dr. Seuss",
+                "Exclamation"
+            ]
+        },
+        {
+            "text": "Be yourself, everyone else is already taken",
+            "author": "Oscar Wilde",
+            "provider": "Andrew Lambert",
+            "tags": [
+                "Book",
+                "Author",
+                "Oscar Wilde",
+                "Exclamation"
+            ]
+        },
+        {
+            "text": "Two things are infinite: the universe and human stupidity, and I'm not sure about the universe",
+            "author": "Albert Einstein",
+            "provider": "Andrew Lambert",
+            "tags": [
+                "Book",
+                "Scientist",
+                "Albert Einstein",
+                "Exclamation"
+            ]
+        },
+        {
+            "text": "You know you're in love when you can't fall asleep because reality is finally better than your dreams",
+            "author": "Dr. Seuss",
+            "provider": "Andrew Lambert",
+            "tags": [
+                "Book",
+                "Author",
+                "Dr. Seuss",
+                "Exclamation"
+            ]
+        },
+        {
+            "text": "A room without books is like a body without a soul",
+            "author": "Cicero",
+            "provider": "Andrew Lambert",
+            "tags": [
+                "Book",
+                "Author",
+                "Cicero",
+                "Exclamation"
+            ]
+        },
+        {
+            "author": "Ben Franklin",
+            "text": "Either write something worth reading or do something worth writing.",
+            "provider": "Ben Leach",
+            "tags": [
+                "USA",
+                "Revolution",
+                "Founder",
+                "Ben",
+                "Franklin"
+            ]
+        },
+        {
+            "author": "Thomas Paine",
+            "text": "These are the times that try mens souls.",
+            "provider": "Ben Leach",
+            "tags": [
+                "Sense",
+                "Common",
+                "Founder",
+                "Tomas",
+                "Paine"
+            ]
+        },
+        {
+            "author": "Thomas Jefferson",
+            "text": "The most valuable of all talents is that of never using two words when one will do.",
+            "provider": "Ben Leach",
+            "tags": [
+                "USA",
+                "Constitution",
+                "Founder",
+                "Tomas",
+                "Jefferson"
+            ]
+        },
+        {
+            "author": "George Washington",
+            "text": "It is better to offer no excuse than a bad one.",
+            "provider": "Ben Leach",
+            "tags": [
+                "General",
+                "Revolution",
+                "President",
+                "George",
+                "Washington"
+            ]
+        },
+        {
+            "author": "Alexander Hamilton",
+            "text": "I never expect a perfect work from an imperfect man.",
+            "provider": "Ben Leach",
+            "tags": [
+                "USA",
+                "Revolution",
+                "Founder",
+                "Alexander",
+                "Hamilton"
+            ]
+        },
+        {
+            "text": "It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived.",
+            "author": "George S. Patton",
+            "provider": "Joel Mercurio",
+            "tags": [
+                "Military",
+                "War Hero",
+                "George S Patton",
+                "history"
+            ]
+        },
+        {
+            "text": "A good plan, violently executed now, is better than a perfect plan next week.",
+            "author": "George Patton",
+            "provider": "Joel Mercurio",
+            "tags": [
+                "Military",
+                "War Hero",
+                "George S Patton",
+                "history"
+            ]
+        },
+        {
+            "text": "If everyone is thinking alike, then no one is thinking.",
+            "author": "George S.P.",
+            "provider": "Joel Mercurio",
+            "tags": [
+                "Military",
+                "War Hero",
+                "George S Patton",
+                "history"
+            ]
+        },
+        {
+            "text": "Good tactics can save even the worst strategy. Bad tactics will destroy even the best strategy.",
+            "author": "George S. Pat.",
+            "provider": "Joel Mercurio",
+            "tags": [
+                "Military",
+                "War Hero",
+                "George S Patton",
+                "history"
+            ]
+        },
+        {
+            "text": "I always believe in being prepared, even when I'm dressed in white tie and tails.",
+            "author": "G.S. Patton",
+            "provider": "Joel Mercurio",
+            "tags": [
+                "Military",
+                "War Hero",
+                "George S Patton",
+                "history"
+            ]
+        },
+        {
+            "text": "Live for something rather than die for nothing.",
+            "author": "G.S.P.",
+            "provider": "Joel Mercurio",
+            "tags": [
+                "Military",
+                "War Hero",
+                "George S Patton",
+                "history"
+            ]
+        },
+        {
+            "text": "\"Don't go around saying the world owes you a living. The world owes you nothing. It was here first.\"",
+            "author": "Mark Twain",
+            "provider": "Joshua Seibert",
+            "tags": [
+                "book",
+                "Twain",
+                "writer",
+                "humor"
+            ]
+        },
+        {
+            "text": "\"A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.\"",
+            "author": "Douglas Adams",
+            "provider": "Joshua Seibert",
+            "tags": [
+                "book",
+                "Adams",
+                "writer",
+                "humor"
+            ]
+        },
+        {
+            "text": "\"The more one listens to ordinary conversations the more apparent it becomes that the reasoning faculties of the brain take little part in the direction of the vocal organs.\"",
+            "author": "Edgar Rice Burroughs",
+            "provider": "Joshua Seibert",
+            "tags": [
+                "book",
+                "Burroughs",
+                "writer",
+                "humor"
+            ]
+        },
+        {
+            "text": "\"The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.\"",
+            "author": "Terry Pratchett",
+            "provider": "Joshua Seibert",
+            "tags": [
+                "book",
+                "Pratchett",
+                "writer",
+                "humor"
+            ]
+        },
+        {
+            "text": "\"Some people see things that are and ask, Why? Some people dream of things that never were and ask, Why not? Some people have to go to work and don't have time for all that\"",
+            "author": "George Carlin",
+            "provider": "Joshua Seibert",
+            "tags": [
+                "book",
+                "Carlin",
+                "comedian",
+                "writer",
+                "humor"
+            ]
+        },
+        {
+            "text": "\"Most people seem to take pleasure in feeling superior to someone. I'm not like that, which pleases me because it makes me feel superior.\"",
+            "author": "Steven Brust",
+            "provider": "Joshua Seibert",
+            "tags": [
+                "book",
+                "Brust",
+                "writer",
+                "humor"
+            ]
+        },
+        {
+            "text": "\"Honour, eh? What the hell is that anyway? Every man thinks it's something different. You can't drink it. You can't f**k it. The more of it you have the less good it does you, and if you've got none at all you don't miss it.\"",
+            "author": "Joe Abercrombie",
+            "provider": "Joshua Seibert",
+            "tags": [
+                "book",
+                "Abercrombie",
+                "writer",
+                "humor"
+            ]
+        }
+    ]
+}
